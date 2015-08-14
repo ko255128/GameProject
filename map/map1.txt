@@ -1,0 +1,120 @@
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+o                                                                                          ooo                                     o                           o
+o                                                                                          ooo    r                                o                           o
+o                                                                                          ooo                                     o                           o
+o                                                                                          ooo                                     o                           o
+o                                                                                          ooo                                     o                           o
+o                                                                                          ooo                                     o                           o
+o                                                       oooooooooooooh       ooooooooooooooooo                                     o                t          o
+o                                                       o                                                                          R                           o
+o                                                       o                                                                                                      o
+ooooooooooooooooooooooooooooooooooooooooh       ooooooooo                                                                                                      o
+o                                                       o                                                                                                      o
+o                                                       o                                                                                                      o
+o                                                       o                                                                                                      o
+o                                                       o                                                                                                      o
+o                                                       o                                                                                                      o
+o                                                       oh       ooooooooooooooooooooooooooooooooooooooooooooooooooooooooh       ooooooooooooooooooooooooooooooo
+o                                                       o                                                                                                      o
+o                                                       o                                                                                                      o
+oooooooooS       oooooooooooooooooooooooh       ooooooooo                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 o                                                                                                      o
+o                     o                                 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o        t            o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+o                     o                                                                                                                                        o
+oooooooooooooooooooooooooooooooh       ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o      t                                                        oo                                                o
+o                g    o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                                                o
+o                     o                      o                                                               oo                      ooooooooooooooooooh       o
+o                     o                      o                                                               oo                      o                         o
+o                     o                      ooooooooooooooooooooooooooooooooooooooooooooooooooH       oooooooo                      o                         o
+o                     v                                                                                                              o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+o                                                                                                                                    o                         o
+ooooooooooooooooooooooooH       oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo                         o
+o                    v             o                                    o                                                                                      o
+o    p                             o                                    o                                                                                      o
+o                                  o               t                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+oooooooooooooooooooooo             o                                    o                                                                                      o
+o                    v             o                                    o                                                                                      o
+o                                  o                                    o                                                                                      o
+o                                  o                                 oooooooooooooooooooh       oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+o                                  o                                 Y                                                                                         o
+o                                  o                                                                                                                           o
+o                                  o                                                                                                                           o
+o                                  o                                                                                                                           o
+o                                  o                                                                                                                           o
+o                    o             o                                                                                                                           o
+o              ooooooo             o                                                                                                                           o
+o              o                   ooooooooooooooooooooooooooooooooooo                                                                                         o
+o              o                   o                                 o                                                                                         o
+o              o                   o                                 o                                                                                         o
+o              o                   o                                 o                                                                                         o
+o              o                   o                                 o                                                                                         o
+o              o                   v                                 o                                                                                         o
+o              o                                                     o                                                                                         o
+o              o                                                     o                                                                                         o
+o              o                                                     ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh       o
+o              o                                                     o                                o                                                        o
+o              o                                                     o                                o                                                        o
+o              o                                                     o                                o                                                        o
+o              o                                                     o                                o                                                        o
+o              o                   o                                 o                                o                                                        o
+o              o                   o                                 o                                o                                                        o
+o              o                   oooooooooooooooooooo              v                                v                                                        o
+o              o                   o                  o                                                                                                        o
+o              o                   o                  o                                                                                                        o
+o              o                   o                  o                                                                                                        o
+o              o                   o                  o                                                                                                        o
+o              o                   o                  v                                                                                                        o
+o              o                   o                                                                                                                           o
+o              o                   o                                                                                                                           o
+o              o                   o                                 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+o              o                   o                                                            o                                                              o
+o              o                   o                                                            o                                                              o
+o              o                   o                                                            o                                                              o
+o              o                   o        y                                                   o                                                              o
+o              o                   o                  o                                         o                                                              e
+o              o                   o                  o                                         o                                                              e
+o              o                   o                  o                                         o                                                              e
+o              oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo                                                              e
+o                                                     o                                                                                                        e
+o                                                     P                                                                                                        e
+o                                                                                                                                                              e
+o                                                                                                                                                              e
+o                                                                                                                                                              o
+o                                                                                                                                                              o
+o                                                                                                                                                              o
+o                                                                                                                                                              o
+o                                                                                                                                                              o
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
